@@ -54,15 +54,19 @@ def lambda_handler(event, context):
 ## Screenshots
 
 ### Pipeline Created
+
 ![Pipeline](screenshots/pipeline.jpeg)
 
 ### Lambda Function
+
 ![Lambda Function](screenshots/lambda-code.jpeg)
 
 ### Lambda Test Success
+
 ![Lambda Test](screenshots/lambda-test.jpeg)
 
 ### Pipeline Execution
+
 ![Pipeline Success](screenshots/pipeline-successfull.jpeg)
 
 
