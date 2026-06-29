@@ -54,24 +54,17 @@ def lambda_handler(event, context):
 ## Screenshots
 
 ### Pipeline Created
-
-(Add Screenshot)
+![Pipeline](screenshots/pipeline.jpeg)
 
 ### Lambda Function
-
-(Add Screenshot)
+![Lambda Function](screenshots/lambda-code.jpeg)
 
 ### Lambda Test Success
-
-(Add Screenshot)
+![Lambda Test](screenshots/lambda-test.jpeg)
 
 ### Pipeline Execution
+![Pipeline Success](screenshots/pipeline-successfull.jpeg)
 
-(Add Screenshot)
-
-### EventBridge Trigger
-
-(Add Screenshot)
 
 ## Author
 
